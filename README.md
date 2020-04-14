@@ -1,6 +1,6 @@
 # Welcome to my page!
-<head>
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
   var OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
@@ -9,7 +9,6 @@
     });
   });
 </script>
-  </head>
   
 ![](giphy.gif)
 
