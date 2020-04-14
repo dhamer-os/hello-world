@@ -2,7 +2,7 @@
 
 ![](giphy.gif)
 
-(https://onesignal.com/ "OneSignal")
+[OneSignal](https://onesignal.com/ "OneSignal Homepage")
 
 Hello!
 
