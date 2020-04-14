@@ -1,6 +1,7 @@
 # Hello-World
 
-<p align="center">![](giphy.gif)
+<p align="center">
+  ![](giphy.gif)
   </p>
 
 Hello!
