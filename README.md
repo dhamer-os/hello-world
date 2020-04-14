@@ -1,8 +1,7 @@
 # Hello-World
 
 <p align="center">
-  <img width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eyebleach-rollin-dH16CNQJRwPsY">via GIPHY</a>
-</p>
+  ![](giphy.gif)
 
 Hello!
 
